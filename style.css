@@ -1,0 +1,40 @@
+body{
+    background-color: rosybrown;
+}
+
+h1{
+    color:blue;
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    text-align:center;
+}
+
+.lists{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#answer{
+    font-weight:bold
+}
+
+.paragraph1{
+    font-size:x-large;
+}
+
+.again{
+    font-size: xx-large;
+    color:blueviolet;
+    text-align: center;
+}
+
+.first_heading{
+    color:firebrick;
+    text-align: center;
+}
+
+#time{
+    font-size:medium
+}
