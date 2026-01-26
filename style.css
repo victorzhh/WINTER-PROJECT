@@ -1,40 +1,70 @@
+/* Changes background color */
 body{
     background-color: rosybrown;
 }
 
+/* Changes h1 to blue, aligns it to the center, and changes the font */
 h1{
     color:blue;
     text-align:center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Aligns all paragraphs to the center */
 p{
     text-align:center;
 }
 
+/* Changes the font of lists, the padding, and the margin */
 .lists{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px 60px;
+    margin: 40px 30px;
 }
 
+/* Makes the answer to the question of "Would I do it again?" bold */
 #answer{
     font-weight:bold
 }
 
+/* Makes the font of the first paragraph extra large */
 .paragraph1{
     font-size:x-large;
 }
 
+/* Makes the question of "Would I do it again?" big, purple, aligned to the center, added padding, and added margin */
 .again{
     font-size: xx-large;
     color:blueviolet;
     text-align: center;
+    padding: 50px 200px;
+    margin: 70px 30px;
 }
+
+/* Makes the first heading(Universal Studios and Camping) firebrick color and aligned to the center */
 
 .first_heading{
     color:firebrick;
     text-align: center;
 }
 
+/* Makes the time(7 hours) medium font */
 #time{
     font-size:medium
+}
+
+/*Made lists Comic Sans Ms, extra large, aligned to the center, underlined, uppercase, color rgb 30,300,0, and italic*/
+li{
+    font-family: "Comic Sans MS";
+    font-size: xx-large;
+    text-align:center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color:rgb(30,300,0);
+    font-style:italic
+}
+
+/*Made paragraphs color #eab0lc*/
+p{
+    color:#eab01c
 }
